@@ -1,0 +1,3 @@
+numbers 1 2 3 4 5
+sampleDeck card1 card2 card3 card4
+DastanClasses Dastan Piece Square Kotla MoveOption Move MoveOptionQueue Player playgame createMoveOption GetPointsForOccupancy SameAs
